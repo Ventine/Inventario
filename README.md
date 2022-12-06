@@ -1,7 +1,7 @@
 # Inventario
 Login
 
-![image](https://user-images.githubusercontent.com/19364556/205117581-6fac35b2-37b1-4429-82bf-7a68d5b4fec7.png)
+![image](https://user-images.githubusercontent.com/19364556/206007311-680afeb3-f898-4e8c-930d-0952c39f6d13.png)
 
 Interfaz
 
